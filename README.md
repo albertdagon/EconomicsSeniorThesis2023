@@ -1,1 +1,1 @@
-[embed]https://github.com/albertdagon/EconomicsSeniorThesis2023/blob/main/EconomicsSeniorThesis2023.pdf[/embed]
+[embed]https://github.com/albertdagon/EconomicsSeniorThesis2023/blob/main/EconomicsSeniorThesis2023.pdf [/embed]
